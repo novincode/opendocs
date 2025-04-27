@@ -26,14 +26,24 @@ We're starting with the **"boring" languages** — the ones with outdated or ove
 
 Click to explore or contribute to each language’s dedicated repo:
 
-| Language    | Repo 📦 | Status 🚧 |
-|-------------|---------|-----------|
-| 🦀 Rust      | [novincode/rustdocs](https://github.com/novincode/rustdocs) | ✅ In Progress |
-| 🟦 Go        | [novincode/godocs](https://github.com/novincode/godocs)     | 🕐 Help Needed |
-| 🌐 HTML      | [novincode/htmldocs](https://github.com/novincode/htmldocs) | 🕐 Help Needed |
-| 🎨 CSS       | [novincode/cssdocs](https://github.com/novincode/cssdocs)   | 🕐 Help Needed |
-| 📜 JavaScript | [novincode/jsdocs](https://github.com/novincode/jsdocs)    | 🕐 Help Needed |
-| ⚙️ Node.js   | [novincode/nodedocs](https://github.com/novincode/nodedocs) | 🕐 Help Needed |
+| Language      | Status        | Repo 📦 |
+| ------------- | -------------- | ------- |
+| 🦀 Rust        | ✅ In Progress | [novincode/rustdocs](https://github.com/novincode/rustdocs) |
+| 🟦 Go          | 🕐 Help Needed | [novincode/godocs](https://github.com/novincode/godocs) |
+| 🌐 HTML        | 🕐 Help Needed | [novincode/htmldocs](https://github.com/novincode/htmldocs) |
+| 🎨 CSS         | 🕐 Help Needed | [novincode/cssdocs](https://github.com/novincode/cssdocs) |
+| 📜 JavaScript  | 🕐 Help Needed | [novincode/jsdocs](https://github.com/novincode/jsdocs) |
+| ⚙️ Node.js     | 🕐 Help Needed | [novincode/nodedocs](https://github.com/novincode/nodedocs) |
+| 🐍 Python      | 🕐 Help Needed | [novincode/pythondocs](https://github.com/novincode/pythondocs) |
+| ☕ Java         | 🕐 Help Needed | [novincode/javadocs](https://github.com/novincode/javadocs) |
+| 🧮 C           | 🕐 Help Needed | [novincode/cdocs](https://github.com/novincode/cdocs) |
+| ➕ C++         | 🕐 Help Needed | [novincode/cppdocs](https://github.com/novincode/cppdocs) |
+| #️⃣ C#         | 🕐 Help Needed | [novincode/csharpdocs](https://github.com/novincode/csharpdocs) |
+| 🐘 PHP         | 🕐 Help Needed | [novincode/phpdocs](https://github.com/novincode/phpdocs) |
+| 🟨 TypeScript  | 🕐 Help Needed | [novincode/typescriptdocs](https://github.com/novincode/typescriptdocs) |
+| 🥑 SQL         | 🕐 Help Needed | [novincode/sqldocs](https://github.com/novincode/sqldocs) |
+| 🔵 Bash        | 🕐 Help Needed | [novincode/bashdocs](https://github.com/novincode/bashdocs) |
+
 
 > 🧠 *More languages will be added soon! Want to add one? Open an issue or create a repo!*
 
